@@ -31,7 +31,7 @@ A scalable Node.js backend for an e-commerce platform with real-time features, c
 - DELETE /api/products/:id - Delete product (admin only)
 - GET /api/products/category/:categoryId - Get products by category
 
-  ## Categories
+## Categories
   
 - GET /api/categories - Get all categories
 - GET /api/categories/:id - Get single category
